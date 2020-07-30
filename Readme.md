@@ -27,4 +27,4 @@ Interestingly, when we applied regularization in a form of sparse linear regress
 Classification on the rescalled and recolorized images from the Kay & Gallant dataset wasn’t perfect. This may be one of the reasons why the accuracy of our prediction was relatively low. To explore this possibility one should use the feature vectors created by model trained on grayscale images or perform similar fMRI study but using high resolution color images. 
 
 #### Authors
-Krzysztof Tołpa, Junya Inoue, Jade Gomes and Zeev Kalyuzhner
+Zeev Kalyuzhner, Junya Inoue, Krzysztof Tołpa, Jade Gomes and Gunnar Blohm
